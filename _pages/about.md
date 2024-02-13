@@ -16,42 +16,109 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My name is Qiyuan Chen (陈启源) and I am currently a senior undergraduate student majoring in Statistics at the School of Mathematics and Statistics, Central China Normal University. Since my sophomore year, I have been conducting research related to big data in education and natural language processing under the guidance of [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Starting from the fall of 2024, I will be pursuing my Ph.D. at the College of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/). Also I work really closely with [Qian Shao](https://abeier87.github.io/) and [Hongsen Huang](https://github.com/SirlyDreamer).
 
+My current research interests primarily include: **<span style="color:#8ECFC9">Tabular Data Prediction (TD)</span>** and **<span style="color:#82B0D2">Semi-Supervised Learning (SS)</span>**. Also I really interested in **<span style="color:#FA7F6F">Natural Language Processing (NLP)</span>** based on LLMs. Specifically,
+
+* Neural Networks for Tabular Data
+* Theory and Methods in Semi-Supervised Learning
+* Retrieval Augmented Generation (RAG) in LLMs
+* Applications of AI (especially LLMs) in Finance
+
+**Feel free to contact me if your research lies within these or related areas!**
+
+In my free time, I really enjoy developing interesting websites and tools using Java (sometimes Python with FastAPI) and Vue.js. You can check out my projects on my [GitHub](https://github.com/qiyuan-chen) if you're interested.
+
+I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and chess in my spare time.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+* *2023.11*, I am honored to have been awarded the [Principal's Scholarship](https://mp.weixin.qq.com/s/B5e4NmFgpNsbQKAxiPb_lQ).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Publications
+
+<span style="color:blue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
+
+## 2024
+
+No publications yet. Streesed about graduation! (in Chinese: 愁毕业~ 😅)
+
+## 2023 and Before (Undergraduate)
+
+* [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://arxiv.org/abs/2311.09214) [**<span style="color:#FA7F6F">NLP</span>**]; Weize Liu, Guocong Li, Kai Zhang, Bang Du, **Qiyuan Chen**, Xuming Hu, Hongxia Xu, Jintai Chen, Jian Wu; **ArXiv Preprint**; 2023.
+
+* [Reprint: a randomized extrapolation based on principal components for data augmentation](https://arxiv.org/abs/2204.12024) [**<span style="color:#FA7F6F">NLP</span>**]; Jiale Wei, **Qiyuan Chen**, Pai Peng, Benjamin Guedj, Le Li; **ArXiv Preprint**; 2022.
+
+# 💻 Projects
+
+<!-- <span style="color:blue">($\dagger$: Founder; $\ddagger$: Main contributor)</span> -->
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">3.4K stars</div><img src='images/camel_back.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA](https://github.com/LC1332/Luotuo-Chinese-LLM)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Ziang Leng, Qiyuan Chen $\dagger$, Cheng Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+This project contains multiple sub-projects. For more sub-projects, please view the project [homepage](https://github.com/LC1332/Luotuo-Chinese-LLM).
+
+- [LuotuoEmbedding: Generative Text Embedding Model distilled from OpenAI API](https://github.com/LC1332/Luotuo-Text-Embedding)
+
+- [LuotuoQA: Better Conversational Question Answering Model with Answer Completion](https://github.com/LC1332/Luotuo-QA)
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## 1. [Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA](https://github.com/LC1332/Luotuo-Chinese-LLM) (Founder)
+
+**<span style="color:red">This project has already received over 3.5k stars.</span>**
+
+This project contains multiple sub-projects. For more sub-projects, please view the project [homepage](https://github.com/LC1332/Luotuo-Chinese-LLM).
+
+- [LuotuoEmbedding: Generative Text Embedding Model distilled from OpenAI API](https://github.com/LC1332/Luotuo-Text-Embedding)
+
+- [LuotuoQA: Better Conversational Question Answering Model with Answer Completion](https://github.com/LC1332/Luotuo-QA)
+
+
+## 2. [ChatInterview](https://github.com/qiyuan-chen/ChatInterview) (Team Lead, Main Contributor)
+
+This is a web-based tool that utilizes Large Language Models (LLMs) to help job seekers **practice for interviews** using state-of-the-art technologies such as **RAG and Agent**.
+
+As the team lead, I spearheaded both the **architectural design** and the development of backend algorithms.
+
+**NOTE: Due to privacy considerations, this project will be fully open-sourced in the second half of 2024.**
+
+## 3. [GPU Server Helper](https://github.com/qiyuan-chen/GPUServerHelper) (Still in Developing, Founder)
+
+This is a web-based tool designed for **viewing and managing GPU server resources**, suitable for laboratories or research institutions to manage and schedule large numbers of GPU servers. 
+
+I did all the coding for this project by **myself**, using FastAPI and Vue3.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2023.11*, Principal’s Scholarship (Undergraduate) (ONLY 10 people in the whole school each year)
+- *2021.11*, National First Prize in the China Undergraduate Mathematical Contest in Model (CUMCM)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2024.09 - 2029.06 (expected)*, Ph.D. in Artificial Intelligence, [College of Computer Science and Technology](http://www.cs.zju.edu.cn/csen/), Zhejiang University. Supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/).
+
+- *2020.09 - 2024.06 (now)*, B.Sc. in Statistics, [School of Mathematics and Statistics](http://maths.ccnu.edu.cn/), Central China Normal University. Advised by [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm).
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.11*, NLP Discuss, CCNU. [[Slides]](https://github.com/qiyuan-chen/qiyuan-chen.github.io/blob/main/talks/nlp-discuss-20231124.pdf)
+
+# 🔎 Reviews
+
+* Review for Conferences: EMNLP 2023, ACL 2023.
+* Review for Journals:
+
+# 🤖 Friendship Links
+
+* [Jintai Chen](https://whatashot.github.io/) (PhD @ ZJU, Post Doc @ UIUC)
+* [Qian Shao](https://abeier87.github.io/) (PhD Student @ ZJU)
+* [Hongsen Huang](https://github.com/SirlyDreamer) (NLP Intern @ Soochow Securities)
+* [Zepeng Li](https://lzzppp.github.io/) (PhD Candidate @ ZJU)
