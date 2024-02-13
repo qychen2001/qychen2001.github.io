@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qiyuan Chen"
-  avatar           : "images/cqy_formal.jpg"
+  avatar           : "images/cqy.jpg"
   bio              : <a href="https://qiyuan-chen.github.io/zh.html">中文版主页</a>
   location         : "Hangzhou, China"
   employer         :
