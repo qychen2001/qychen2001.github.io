@@ -35,6 +35,8 @@ I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and che
 
 # 🔥 News
 
+* *2024.3*, One paper accepted by **NAACL 2024**.
+
 * *2023.11*, I am honored to have been awarded the [Principal's Scholarship](https://mp.weixin.qq.com/s/B5e4NmFgpNsbQKAxiPb_lQ).
 
 # 📝 Publications
@@ -43,13 +45,8 @@ I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and che
 
 ## 2024
 
-No publications yet. Streesed about graduation! (in Chinese: 愁毕业~ 😅)
+* [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://arxiv.org/abs/2311.09214) [**<span style="color:#FA7F6F">NLP</span>**]; Weize Liu, Guocong Li, Kai Zhang, Bang Du, **Qiyuan Chen**, Xuming Hu, Hongxia Xu, Jintai Chen, Jian Wu; **NAACL**; 2024.
 
-## 2023 and Before (Undergraduate)
-
-* [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://arxiv.org/abs/2311.09214) [**<span style="color:#FA7F6F">NLP</span>**]; Weize Liu, Guocong Li, Kai Zhang, Bang Du, **Qiyuan Chen**, Xuming Hu, Hongxia Xu, Jintai Chen, Jian Wu; **ArXiv Preprint**; 2023.
-
-* [Reprint: a randomized extrapolation based on principal components for data augmentation](https://arxiv.org/abs/2204.12024) [**<span style="color:#FA7F6F">NLP</span>**]; Jiale Wei, **Qiyuan Chen**, Pai Peng, Benjamin Guedj, Le Li; **ArXiv Preprint**; 2022.
 
 # 💻 Projects
 
