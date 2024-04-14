@@ -123,4 +123,7 @@ I did all the coding for this project by **myself**, using FastAPI and Vue3.
 * Review for Conferences: ACL, EMNLP
 * Review for Journals:
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> This homepage is visited times
+<div align="center">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+This homepage is visited <font color="purple" size="5"><span id="busuanzi_value_site_pv"></span></font> times
+</div>
