@@ -93,7 +93,7 @@ This is a web-based tool designed for **viewing and managing GPU server resource
 
 I did all the coding for this project by **myself**, using FastAPI and Vue3.
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
 - *2023.11*, Principal’s Scholarship (Undergraduate) (ONLY 10 people in the whole school each year)
 - *2021.11*, National First Prize in the China Undergraduate Mathematical Contest in Model (CUMCM)
@@ -104,15 +104,21 @@ I did all the coding for this project by **myself**, using FastAPI and Vue3.
 
 - *2020.09 - 2024.06*, B.Sc. in Statistics, [School of Mathematics and Statistics](http://maths.ccnu.edu.cn/), Central China Normal University. Advised by [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm).
 
+
+<!-- 
 # 💬 Invited Talks
 
 - *2023.11*, NLP Discuss, CCNU. [[Slides]](https://github.com/qiyuan-chen/qiyuan-chen.github.io/blob/main/talks/nlp-discuss-20231124.pdf)
+
+-->
+
+# 🎒 Visiting and Internship
+
+<!-- 
+- *2024.06 - 2024.09*, Medical Big Data Center, Guangdong Academy of Medical Sciences, had the honor of working with Prof. Huiying Liang, Shuai Huang, and Dantong Li.
+-->
 
 # 🔎 Reviews
 
 * Review for Conferences: ACL, EMNLP
 * Review for Journals:
-
-# 🎒 Visiting
-
-

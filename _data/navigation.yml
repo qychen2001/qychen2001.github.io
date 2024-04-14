@@ -9,7 +9,6 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-
   - title: "Projects"
     url: "/#-projects"
 
@@ -19,11 +18,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Visiting and Internship"
+    url: "/#-visiting-and-internship"
 
   - title: "Reviews"
     url: "/#-reviews"
-
-  - title: "Visiting"
-    url: "/#-visiting"
