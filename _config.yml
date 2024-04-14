@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiyuan Chen"
-description              : "I am a Ph.D. student in Computer Science at Zhejiang University, starting from the fall of 2024."
+description              : "Emerging AI Researcher & Novice Full-Stack Engineer"
 repository               : "qiyuan-chen/qiyuan-chen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qiyuan Chen"
   avatar           : "images/cqy.jpg"
-  bio              : <a href="https://qiyuan-chen.github.io/zh.html">中文版主页</a>
+  bio              : "Ph.D. Student at Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
