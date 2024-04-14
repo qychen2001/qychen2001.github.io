@@ -16,18 +16,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Qiyuan Chen (陈启源) and I am currently a senior undergraduate student majoring in Statistics at the School of Mathematics and Statistics, Central China Normal University. Since my sophomore year, I have been conducting research related to big data in education and natural language processing under the guidance of [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm).
+My name is Qiyuan Chen (陈启源) and I am currently a Ph.D. student at the College of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/). Before that, I got my B.Sc. degree from the School of Mathematics and Statistics, Central China Normal University, under the guidance of [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm).
 
-Starting from the fall of 2024, I will be pursuing my Ph.D. at the College of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/). Also I work really closely with [Qian Shao](https://abeier87.github.io/) and [Hongsen Huang](https://github.com/SirlyDreamer).
+My current research interests primarily include: **<span style="color:#8ECFC9">Multi Modal Learning (MM)</span>**, **<span style="color:#82B0D2">Machine Learning (ML)</span>** and **<span style="color:#FA7F6F">Natural Language Processing (NLP)</span>**. Specifically,
 
-My current research interests primarily include: **<span style="color:#8ECFC9">Tabular Data Prediction (TD)</span>** and **<span style="color:#82B0D2">Semi-Supervised Learning (SS)</span>**. Also I really interested in **<span style="color:#FA7F6F">Natural Language Processing (NLP)</span>** based on LLMs. Specifically,
-
-* Neural Networks for Tabular Data
-* Theory and Methods in Semi-Supervised Learning
-* Retrieval Augmented Generation (RAG) in LLMs
-* Applications of AI (especially LLMs) in Finance
+* Multi Modal Learning and its Applications in Medical [**<span style="color:#8ECFC9">MM</span>**]
+* Theories and Methods in Semi-Supervised Learning [**<span style="color:#82B0D2">ML</span>**]
+* Tabular Data Prediction and Tabular Reasoning [**<span style="color:#82B0D2">ML</span>**]
+* Modules and Further Applications in RAG systems [**<span style="color:#FA7F6F">NLP</span>**]
 
 **Feel free to contact me if your research lies within these or related areas!**
+
+And I work really closely with [Qian Shao](https://abeier87.github.io/), [Xuming Hu](https://xuminghu.github.io/), [Hongsen Huang](https://github.com/SirlyDreamer) and [Zepeng Li](https://lzzppp.github.io/).
 
 In my free time, I really enjoy developing interesting websites and tools using Java (sometimes Python with FastAPI) and Vue.js. You can check out my projects on my [GitHub](https://github.com/qiyuan-chen) if you're interested.
 
@@ -110,12 +110,9 @@ I did all the coding for this project by **myself**, using FastAPI and Vue3.
 
 # 🔎 Reviews
 
-* Review for Conferences: EMNLP 2023, ACL 2023.
+* Review for Conferences: ACL, EMNLP
 * Review for Journals:
 
-# 🤖 Friendship Links
+# 🎒 Visiting
 
-* [Jintai Chen](https://whatashot.github.io/) (PhD @ ZJU, Post Doc @ UIUC)
-* [Qian Shao](https://abeier87.github.io/) (PhD Student @ ZJU)
-* [Hongsen Huang](https://github.com/SirlyDreamer) (NLP Intern @ Soochow Securities)
-* [Zepeng Li](https://lzzppp.github.io/) (PhD Candidate @ ZJU)
+
