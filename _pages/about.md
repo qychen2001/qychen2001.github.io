@@ -20,10 +20,10 @@ My name is Qiyuan Chen (陈启源) and I am currently a Ph.D. student at the Col
 
 My current research interests primarily include: **<span style="color:#8ECFC9">Multi Modal Learning (MM)</span>**, **<span style="color:#82B0D2">Machine Learning (ML)</span>** and **<span style="color:#FA7F6F">Natural Language Processing (NLP)</span>**. Specifically,
 
-* Multi Modal Learning and its Applications in Medical [**<span style="color:#8ECFC9">MM</span>**]
-* Theories and Methods in Semi-Supervised Learning [**<span style="color:#82B0D2">ML</span>**]
-* Tabular Data Prediction and Tabular Reasoning [**<span style="color:#82B0D2">ML</span>**]
-* Modules and Further Applications in RAG systems [**<span style="color:#FA7F6F">NLP</span>**]
+* Multi Modal Learning and its Applications in Medical
+* Theories and Methods in Semi-Supervised Learning
+* Tabular Data Prediction and Tabular Reasoning
+* Modules and Further Applications in RAG systems
 
 **Feel free to contact me if your research lies within these or related areas!**
 
