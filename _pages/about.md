@@ -81,6 +81,8 @@ This project contains multiple sub-projects. For more sub-projects, please view 
 
 ## 2. [ChatInterview](https://github.com/qiyuan-chen/ChatInterview) (Team Lead, Main Contributor)
 
+**You can check out the [DEMO](http://14.103.48.72/) here.**
+
 This is a web-based tool that utilizes Large Language Models (LLMs) to help job seekers **practice for interviews** using state-of-the-art technologies such as **RAG and Agent**.
 
 As the team lead, I spearheaded both the **architectural design** and the development of backend algorithms.
