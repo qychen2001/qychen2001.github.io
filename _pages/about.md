@@ -95,12 +95,12 @@ This is a web-based tool designed for **viewing and managing GPU server resource
 
 I did all the coding for this project by **myself**, using FastAPI and Vue3.
 
-## 4. Awesomes
+<!-- ## 4. Awesomes
 
 Some reading lists for topics related to deep learning:
 
 - [Awesome Semi Supervised Object Detection](https://github.com/qiyuan-chen/Awesome-Semi-Supervised-Object-Detection)
-- [Awesome Synthetic Data](https://github.com/qiyuan-chen/Awesome-Synthetic-Data)
+- [Awesome Synthetic Data](https://github.com/qiyuan-chen/Awesome-Synthetic-Data) -->
 
 # 🏅 Honors and Awards
 
