@@ -35,7 +35,9 @@ I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and che
 
 # 🔥 News
 
-* *2024.3*, One paper accepted by **NAACL 2024**.
+* *2024.5*, One paper on Tabular Data Prediction is accepted by **KDD 2024**.
+
+* *2024.3*, One paper on Large Language Model Distillation is accepted by **NAACL 2024**.
 
 * *2023.11*, I am honored to have been awarded the [Principal's Scholarship](https://mp.weixin.qq.com/s/B5e4NmFgpNsbQKAxiPb_lQ).
 
@@ -44,6 +46,8 @@ I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and che
 <span style="color:blue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
 ## 2024
+
+* [Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://openreview.net/forum?id=5PpMLgRjq2) [**<span style="color:#82B0D2">ML</span>**]; Jintai Chen, Jiahuan Yan, **Qiyuan Chen**, Danny Chen, Jian Wu, Jimeng Sun; **KDD**; 2024. [CCF A; TH-CPL A]
 
 * [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://arxiv.org/abs/2311.09214) [**<span style="color:#FA7F6F">NLP</span>**]; Weize Liu, Guocong Li, Kai Zhang, Bang Du, **Qiyuan Chen**, Xuming Hu, Hongxia Xu, Jintai Chen, Jian Wu; **NAACL**; 2024. [CCF B; TH-CPL B]
 
