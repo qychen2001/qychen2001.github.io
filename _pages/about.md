@@ -47,7 +47,7 @@ I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and che
 
 ## 2024
 
-* [Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://openreview.net/forum?id=5PpMLgRjq2) [**<span style="color:#82B0D2">ML</span>**]; Jintai Chen, Jiahuan Yan, **Qiyuan Chen**, Danny Chen, Jian Wu, Jimeng Sun; **KDD**; 2024. [CCF A; TH-CPL A]
+* [Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/abs/2301.02819v4) [**<span style="color:#82B0D2">ML</span>**]; Jintai Chen, Jiahuan Yan, **Qiyuan Chen**, Danny Chen, Jian Wu, Jimeng Sun; **KDD**; 2024. [CCF A; TH-CPL A]
 
 * [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://arxiv.org/abs/2311.09214) [**<span style="color:#FA7F6F">NLP</span>**]; Weize Liu, Guocong Li, Kai Zhang, Bang Du, **Qiyuan Chen**, Xuming Hu, Hongxia Xu, Jintai Chen, Jian Wu; **NAACL**; 2024. [CCF B; TH-CPL B]
 
@@ -93,11 +93,11 @@ As the team lead, I spearheaded both the **architectural design** and the develo
 
 **NOTE: Due to privacy considerations, this project will be fully open-sourced in the second half of 2024.**
 
-## 3. [GPU Server Helper](https://github.com/qiyuan-chen/GPUServerHelper) (Still in Developing, Founder)
+<!-- ## 3. [GPU Server Helper](https://github.com/qiyuan-chen/GPUServerHelper) (Still in Developing, Founder)
 
 This is a web-based tool designed for **viewing and managing GPU server resources**, suitable for laboratories or research institutions to manage and schedule large numbers of GPU servers. 
 
-I did all the coding for this project by **myself**, using FastAPI and Vue3.
+I did all the coding for this project by **myself**, using FastAPI and Vue3. -->
 
 <!-- ## 4. Awesomes
 
