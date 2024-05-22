@@ -35,9 +35,11 @@ I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and che
 
 # 🔥 News
 
-* *2024.5*, One paper on Tabular Data Prediction is accepted by **KDD 2024**.
+* *2024.05*, I am honored to have been awarded the Outstanding Graduates.
 
-* *2024.3*, One paper on Large Language Model Distillation is accepted by **NAACL 2024**.
+* *2024.05*, One paper on Tabular Data Prediction is accepted by **KDD 2024**.
+
+* *2024.03*, One paper on Large Language Model Distillation is accepted by **NAACL 2024**.
 
 * *2023.11*, I am honored to have been awarded the [Principal's Scholarship](https://mp.weixin.qq.com/s/B5e4NmFgpNsbQKAxiPb_lQ).
 
@@ -108,6 +110,7 @@ Some reading lists for topics related to deep learning:
 
 # 🏅 Honors and Awards
 
+- *2023.05*, Outstanding Graduates (Undergraduate)
 - *2023.11*, Principal’s Scholarship (Undergraduate) (ONLY 10 people in the whole school each year)
 - *2021.11*, National First Prize in the China Undergraduate Mathematical Contest in Model (CUMCM)
 
