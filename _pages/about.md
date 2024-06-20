@@ -133,7 +133,7 @@ Some reading lists for topics related to deep learning:
 # 🎒 Visiting and Internship
 
 
-- *2024.06 - 2024.09*, Medical Big Data Center, Guangdong Academy of Medical Sciences, had the honor of working with Prof. [Huiying Liang](http://cmu.teacher.360eol.com/teacherBasic/preview?teacherId=16017).
+- *2024.06 - 2024.09*, Medical Big Data Center, Guangdong Academy of Medical Sciences, had the honor of working with [Prof. Huiying Liang](http://cmu.teacher.360eol.com/teacherBasic/preview?teacherId=16017) and [Dr. Shuai Huang].
 
 
 # 🔎 Reviews
