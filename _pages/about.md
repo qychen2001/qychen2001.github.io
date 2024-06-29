@@ -37,7 +37,7 @@ I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and che
 
 # 🔥 News
 
-* *2024.05*, I am honored to have been awarded the Outstanding Graduates.
+* *2024.06*, One paper on Medical Image Processing is accepted by **KDD AIDSH 2024**. Congratulations to Qian Shao!
 
 * *2024.05*, One paper on Tabular Data Prediction is accepted by **KDD 2024**.
 
@@ -50,6 +50,8 @@ I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and che
 <span style="color:blue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
 ## 2024
+
+* [Take Your Steps: Hierarchically Efficient Pulmonary Disease Screening via CT Compression]() [**<span style="color:#8ECFC9">ML</span>**]; Qian Shao, Kai Zhang, Bang Du, Zepeng Li, Yixuan Wu, **Qiyuan Chen**, Jian Wu, Jintai Chen; **KDD-AIDSH**; 2024. [KDD Workshop]
 
 * [Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/abs/2301.02819v4) [**<span style="color:#8ECFC9">ML</span>**]; Jintai Chen, Jiahuan Yan, **Qiyuan Chen**, Danny Chen, Jian Wu, Jimeng Sun; **KDD**; 2024. [CCF A; TH-CPL A]
 
