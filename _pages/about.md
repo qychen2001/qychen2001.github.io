@@ -29,7 +29,7 @@ My current research interests primarily include: **<span style="color:#8ECFC9">M
 
 **Feel free to contact me if your research lies within these or related areas!**
 
-And I work really closely with [Qian Shao](https://abeier87.github.io/), [Xuming Hu](https://xuminghu.github.io/), [Hongsen Huang](https://github.com/SirlyDreamer) and [Zepeng Li](https://lzzppp.github.io/).
+And I work really closely with [Qian Shao](https://abeier87.github.io/), [Hongsen Huang](https://github.com/SirlyDreamer) and [Zepeng Li](https://lzzppp.github.io/).
 
 In my free time, I really enjoy developing interesting websites and tools using Java (sometimes Python with FastAPI) and Vue.js. You can check out my projects on my [GitHub](https://github.com/qychen2001) if you're interested.
 
@@ -51,7 +51,9 @@ I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and che
 
 ## 2024
 
-* [Take Your Steps: Hierarchically Efficient Pulmonary Disease Screening via CT Compression]() [**<span style="color:#8ECFC9">ML</span>**]; Qian Shao, Kai Zhang, Bang Du, Zepeng Li, Yixuan Wu, **Qiyuan Chen**, Jian Wu, Jintai Chen; **KDD-AIDSH**; 2024. [KDD Workshop]
+* [Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data](https://arxiv.org/abs/2406.00281) [**<span style="color:#8ECFC9">ML</span>**]; Jintai Chen, Zhen Lin, **Qiyuan Chen**, Jimeng Sun; **arXiv**; 2024.
+
+* [Take Your Steps: Hierarchically Efficient Pulmonary Disease Screening via CT Compression](); Qian Shao, Kai Zhang, Bang Du, Zepeng Li, Yixuan Wu, **Qiyuan Chen**, Jian Wu, Jintai Chen; **KDD-AIDSH**; 2024. [KDD Workshop]
 
 * [Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/abs/2301.02819v4) [**<span style="color:#8ECFC9">ML</span>**]; Jintai Chen, Jiahuan Yan, **Qiyuan Chen**, Danny Chen, Jian Wu, Jimeng Sun; **KDD**; 2024. [CCF A; TH-CPL A]
 
