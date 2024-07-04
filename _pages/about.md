@@ -116,7 +116,7 @@ Some reading lists for topics related to deep learning:
 
 # 🏅 Honors and Awards
 
-- *2023.05*, Outstanding Graduates (Undergraduate)
+- *2024.05*, Outstanding Graduates (Undergraduate)
 - *2023.11*, Principal’s Scholarship (Undergraduate) (ONLY 10 people in the whole school each year)
 - *2021.11*, National First Prize in the China Undergraduate Mathematical Contest in Model (CUMCM)
 
