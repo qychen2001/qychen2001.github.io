@@ -118,7 +118,8 @@ Some reading lists for topics related to deep learning:
 
 - *2024.05*, Outstanding Graduates (Undergraduate)
 - *2023.11*, Principal’s Scholarship (Undergraduate) (ONLY 10 people in the whole school each year)
-- *2021.11*, National First Prize in the China Undergraduate Mathematical Contest in Model (CUMCM)
+- *2021.11*, China Undergraduate Mathematical Contest in Model (CUMCM), First Prize
+- *2019.11*, The 19th Awarding Program For Future Scientists (The largest pre-college scientific research event in China), Second Prize
 
 # 📖 Educations
 
