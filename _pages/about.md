@@ -52,6 +52,8 @@ I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and che
 ## 2024
 
 <!-- * [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation]() **<span style="color:#FA7F6F">MM</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **ACM TOMM**; 2024. [CCF B; TH-CPL B] -->
+* [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation]() [**<span style="color:#FA7F6F">MM</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **arXiv**; 2024.
+
 
 * [Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data](https://arxiv.org/abs/2406.00281) [**<span style="color:#8ECFC9">ML</span>**]; Jintai Chen, Zhen Lin, **Qiyuan Chen**, Jimeng Sun; **arXiv**; 2024.
 
