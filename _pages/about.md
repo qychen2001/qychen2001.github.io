@@ -37,8 +37,6 @@ I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and che
 
 # 🔥 News
 
-* *2024.06*, One paper on Medical Image Processing is accepted by **KDD AIDSH 2024**. Congratulations to Qian Shao!
-
 * *2024.05*, One paper on Tabular Data Prediction is accepted by **KDD 2024**.
 
 * *2024.03*, One paper on Large Language Model Distillation is accepted by **NAACL 2024**.
