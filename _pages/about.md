@@ -31,9 +31,9 @@ My current research interests primarily include: **<span style="color:#8ECFC9">M
 
 And I work really closely with [Qian Shao](https://abeier87.github.io/), [Hongsen Huang](https://github.com/SirlyDreamer) and [Zepeng Li](https://lzzppp.github.io/).
 
-In my free time, I really enjoy developing interesting websites and tools using Java (sometimes Python with FastAPI) and Vue.js. You can check out my projects on my [GitHub](https://github.com/qychen2001) if you're interested.
+In my spare time, I really enjoy developing interesting websites and tools using FastAPI and Vue.js, and I'm also interested in DevOPS (CI/CD, container, etc.). If you're interested, check out my projects on my [GitHub](https://github.com/qychen2001).
 
-I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and chess in my spare time.
+I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, running and chess in my spare time.
 
 # 🔥 News
 
