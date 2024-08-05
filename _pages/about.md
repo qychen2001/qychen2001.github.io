@@ -31,9 +31,9 @@ My current research interests primarily include: **<span style="color:#8ECFC9">M
 
 And I work really closely with [Qian Shao](https://abeier87.github.io/), [Hongsen Huang](https://github.com/SirlyDreamer) and [Zepeng Li](https://lzzppp.github.io/).
 
-In my free time, I really enjoy developing interesting websites and tools using Java (sometimes Python with FastAPI) and Vue.js. You can check out my projects on my [GitHub](https://github.com/qychen2001) if you're interested. 
+In my spare time, I really enjoy developing interesting websites and tools using FastAPI and Vue.js, and I'm also interested in DevOPS (CI/CD, container, etc.). If you're interested, check out my projects on my [GitHub](https://github.com/qychen2001).
 
-I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and chess in my spare time.
+I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, running and chess in my spare time.
 
 # 🔥 News
 
@@ -50,7 +50,7 @@ I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and che
 ## 2024
 
 <!-- * [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation]() **<span style="color:#FA7F6F">MM</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **ACM TOMM**; 2024. [CCF B; TH-CPL B] -->
-* [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation]() [**<span style="color:#FA7F6F">MM</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **arXiv**; 2024.
+* [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/abs/2408.00555) [**<span style="color:#FA7F6F">MM</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **arXiv**; 2024.
 
 
 * [Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data](https://arxiv.org/abs/2406.00281) [**<span style="color:#8ECFC9">ML</span>**]; Jintai Chen, Zhen Lin, **Qiyuan Chen**, Jimeng Sun; **arXiv**; 2024.
