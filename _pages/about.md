@@ -24,7 +24,7 @@ My current research interests primarily include: **<span style="color:#8ECFC9">M
 * Tabular Data Prediction and AutoML for Tabular Data
 * Multi Modal Learning and its Applications in Medical
 * Methods and Applications for Synthetic Data Generation
-* Theories and Methods in Semi-Supervised Learning
+* Applications of LLMs (RAG, Agent, etc.) in Real-world Scenarios
 
 
 **Feel free to contact me if your research lies within these or related areas!**
@@ -32,8 +32,6 @@ My current research interests primarily include: **<span style="color:#8ECFC9">M
 And I work really closely with [Qian Shao](https://abeier87.github.io/), [Hongsen Huang](https://github.com/SirlyDreamer) and [Zepeng Li](https://lzzppp.github.io/).
 
 In my free time, I really enjoy developing interesting websites and tools using Java (sometimes Python with FastAPI) and Vue.js. You can check out my projects on my [GitHub](https://github.com/qychen2001) if you're interested. 
-
-**<span style="color:red">I'm looking for passionate full-stack developers at Zhejiang University! Let's do something interesting together.</span>**
 
 I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and chess in my spare time.
 
@@ -100,7 +98,7 @@ This project contains multiple sub-projects. For more sub-projects, please view 
 - [LuotuoQA: Better Conversational Question Answering Model with Answer Completion](https://github.com/LC1332/Luotuo-QA)
 
 
-## 2. [ChatInterview](https://github.com/qiyuan-chen/ChatInterview) (Team Lead, Main Contributor)
+## 2. [AInterview](https://github.com/qiyuan-chen/ChatInterview) (Team Lead, Main Contributor)
 
 **You can check out the [DEMO](http://14.103.48.72/) here.**
 
