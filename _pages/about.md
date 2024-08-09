@@ -86,7 +86,7 @@ This project contains multiple sub-projects. For more sub-projects, please view 
 </div>
 </div> -->
 
-## 1. [Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA](https://github.com/LC1332/Luotuo-Chinese-LLM) [](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM) (Founder)
+## 1. [Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA ![](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM)](https://github.com/LC1332/Luotuo-Chinese-LLM) (Founder)
 
 **<span style="color:red">This project has already received over 3.5k stars.</span>**
 
@@ -107,7 +107,9 @@ As the team lead, I spearheaded both the **architectural design** and the develo
 
 **NOTE: Due to privacy considerations, this project will be fully open-sourced in the second half of 2024.**
 
-## 3. [pytorch-frame](https://github.com/pyg-team/pytorch-frame/) [](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM) (Contributor)
+## 3. [PyTorch Frame ![](https://img.shields.io/github/stars/pyg-team/pytorch-frame)](https://github.com/pyg-team/pytorch-frame) (Contributor)
+
+Added additional model and dataset support for Pytorch Frame.
 
 # 🏅 Honors and Awards
 
