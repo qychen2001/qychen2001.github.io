@@ -86,7 +86,7 @@ This project contains multiple sub-projects. For more sub-projects, please view 
 </div>
 </div> -->
 
-## 1. [Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA](https://github.com/LC1332/Luotuo-Chinese-LLM) (Founder)
+## 1. [Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA](https://github.com/LC1332/Luotuo-Chinese-LLM) [](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM) (Founder)
 
 **<span style="color:red">This project has already received over 3.5k stars.</span>**
 
@@ -107,18 +107,7 @@ As the team lead, I spearheaded both the **architectural design** and the develo
 
 **NOTE: Due to privacy considerations, this project will be fully open-sourced in the second half of 2024.**
 
-<!-- ## 3. [GPU Server Helper](https://github.com/qiyuan-chen/GPUServerHelper) (Still in Developing, Founder)
-
-This is a web-based tool designed for **viewing and managing GPU server resources**, suitable for laboratories or research institutions to manage and schedule large numbers of GPU servers. 
-
-I did all the coding for this project by **myself**, using FastAPI and Vue3. -->
-
-<!-- ## 4. Awesomes
-
-Some reading lists for topics related to deep learning:
-
-- [Awesome Semi Supervised Object Detection](https://github.com/qiyuan-chen/Awesome-Semi-Supervised-Object-Detection)
-- [Awesome Synthetic Data](https://github.com/qiyuan-chen/Awesome-Synthetic-Data) -->
+## 3. [pytorch-frame](https://github.com/pyg-team/pytorch-frame/) [](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM) (Contributor)
 
 # 🏅 Honors and Awards
 
