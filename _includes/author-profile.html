@@ -145,6 +145,10 @@
       <li><a href="{{ author.zhihu }}"><i class="fab fa-zhihu"></i> Zhihu</a></li>
       {% endif %}
 
+      {% if author.blog %}
+      <li><a href="{{ author.blog }}"><i class="fa fa-rss-square"></i> Blog</a></li>
+      {% endif %}
+
       {% if author.wikipedia %}
       <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w"
             aria-hidden="true"></i> Wikipedia</a></li>

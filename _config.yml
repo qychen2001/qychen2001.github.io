@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Qiyuan Chen"
 description              : "AI Research Beginner and Full-Stack Novice"
-repository               : "qiyuan-chen/qiyuan-chen.github.io"
+repository               : "qychen2001/qychen2001.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -58,7 +58,7 @@ author:
   youtube          :
   wikipedia        :
   zhihu            : "https://www.zhihu.com/people/chenqiyuan"
-
+  blog             : "https://qychen2001.github.io/blog"
 
 # Reading Files
 include:
