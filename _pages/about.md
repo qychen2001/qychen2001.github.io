@@ -33,12 +33,6 @@ In my spare time, I really enjoy developing interesting websites and tools using
 
 I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, running and chess in my spare time.
 
-<div align="center">
-<font color="red" size="3">
-<span id="lastCommitTime"></span>
-</font>
-</div>
-
 # 🔥 News
 
 - _2024.05_, One paper on Tabular Data Prediction is accepted by **KDD 2024**.
@@ -166,7 +160,12 @@ async function fetchLastCommitTime() {
         // document.getElementById('lastCommitTime').textContent = 'Failed to fetch commit time.';
     }
 }
-// 调用函数
 fetchLastCommitTime();
 </script>
+</div>
+
+<div align="center">
+<font color="red" size="3">
+<span id="lastCommitTime"></span>
+</font>
 </div>
