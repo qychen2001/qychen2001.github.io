@@ -147,13 +147,8 @@ async function fetchLastCommitTime() {
     const owner = 'qychen2001';
     const repo = 'qychen2001.github.io';
     const url = `https://api.github.com/repos/${owner}/${repo}/commits`;
-    const token = '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';
-    const headers = {
-                        'Authorization': `Bearer ${token}`,
-                        'Accept': 'application/vnd.github.v3+json'
-                    };
     try {
-        const response = await fetch(url, {headers});
+        const response = await fetch(url);
         if (!response.ok) {
             throw new Error(`Failed to fetch data from GitHub: ${response.statusText}`);
         }
