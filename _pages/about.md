@@ -147,3 +147,31 @@ Added additional model and dataset support for Pytorch Frame.
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 This homepage is visited <font color="purple" size="5"><span id="busuanzi_value_site_pv"></span></font> times
 </div>
+
+<div>
+
+<script>
+        async function fetchLastCommitTime() {
+            const owner = 'qychen2001'; // 替换成仓库所有者的用户名
+            const repo = 'qychen2001.github.io';   // 替换成仓库名称
+            const url = `https://api.github.com/repos/${owner}/${repo}/commits`;
+
+            try {
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch data from GitHub: ${response.statusText}`);
+                }
+                const data = await response.json();
+                const lastCommitDate = new Date(data[0].commit.committer.date);
+                document.getElementById('lastCommitTime').textContent = `Last commit was at ${lastCommitDate.toLocaleString()}`;
+            } catch (error) {
+                console.error('Error fetching commit time:', error);
+                document.getElementById('lastCommitTime').textContent = 'Failed to fetch commit time.';
+            }
+        }
+
+        // 调用函数
+        fetchLastCommitTime();
+</script>
+<p id="lastCommitTime"></p>
+</div>
