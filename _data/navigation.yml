@@ -18,8 +18,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Visiting and Internship"
-    url: "/#-visiting-and-internship"
+  # - title: "Visiting and Internship"
+  #   url: "/#-visiting-and-internship"
 
   - title: "Reviews"
     url: "/#-reviews"

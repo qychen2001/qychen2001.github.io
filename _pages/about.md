@@ -116,14 +116,14 @@ Added additional model and dataset support for Pytorch Frame.
 
 - _2024.05_, Outstanding Graduates (Undergraduate)
 - _2023.11_, Principal’s Scholarship (Undergraduate) (ONLY 10 people in the whole school each year)
-- _2021.11_, China Undergraduate Mathematical Contest in Model (CUMCM), First Prize
+- _2021.11_, China Undergraduate Mathematical Contest in Model (CUMCM), First Prize, under the guidance of [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm)
 - _2019.11_, The 19th Awarding Program For Future Scientists (The largest pre-college scientific research event in China), Second Prize
 
 # 📖 Educations
 
 - _2024.09 - 2029.06 (expected)_, Ph.D. in Artificial Intelligence, [College of Computer Science and Technology](http://www.cs.zju.edu.cn/csen/), Zhejiang University. Supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/).
 
-- _2020.09 - 2024.06_, B.Sc. in Statistics, [School of Mathematics and Statistics](http://maths.ccnu.edu.cn/), Central China Normal University. Advised by [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm).
+- _2020.09 - 2024.06_, B.Sc. in Statistics, [School of Mathematics and Statistics](http://maths.ccnu.edu.cn/), Central China Normal University. Advised by [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm). Thanks to [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm), I was able to spend four unforgettable and wonderful years there.
 
 <!--
 # 💬 Invited Talks
@@ -132,9 +132,9 @@ Added additional model and dataset support for Pytorch Frame.
 
 -->
 
-# 🎒 Visiting and Internship
+<!-- # 🎒 Visiting and Internship
 
-- _2024.06 - 2024.09_, Visiting Scholar, Medical Big Data Center, Guangdong Academy of Medical Sciences, had the honor of working with [Prof. Huiying Liang](http://cmu.teacher.360eol.com/teacherBasic/preview?teacherId=16017).
+- _2024.06 - 2024.09_, Visiting Scholar, Medical Big Data Center, Guangdong Academy of Medical Sciences, had the honor of working with [Prof. Huiying Liang](http://cmu.teacher.360eol.com/teacherBasic/preview?teacherId=16017). -->
 
 # 🔎 Reviews
 
