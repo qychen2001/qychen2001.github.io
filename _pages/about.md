@@ -39,7 +39,7 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 # 🔥 News
 
-- _2024.09_, One paper on Semi-Supervised Learning is accepted by **NIPS 2025**. Congratulations to Qian Shao!
+- _2024.09_, One paper on Semi-Supervised Learning is accepted by **NIPS 2024**. Congratulations to Qian Shao!
 
 - _2024.05_, One paper on Tabular Data Prediction is accepted by **KDD 2024**.
 
@@ -55,7 +55,7 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 <!-- * [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation]() **<span style="color:#FA7F6F">MM</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **ACM TOMM**; 2024. [CCF B; TH-CPL B] -->
 
-* [Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection](https://arxiv.org/abs/2409.11653) [**<span style="color:#8ECFC9">ML</span>**]; Qian Shao, Jiangrui Kang, **Qiyuan Chen\***, Zepeng Li, Hongxia Xu, Yiwen Cao, Jiajuan Liang, Jian Wu; **NIPS**; 2025. [CCF A; TH-CPL A]
+* [Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection](https://arxiv.org/abs/2409.11653) [**<span style="color:#8ECFC9">ML</span>**]; Qian Shao, Jiangrui Kang, **Qiyuan Chen\***, Zepeng Li, Hongxia Xu, Yiwen Cao, Jiajuan Liang, Jian Wu; **NIPS**; 2024. [CCF A; TH-CPL A]
 
 - [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/abs/2408.00555) [**<span style="color:#FA7F6F">MM</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **arXiv**; 2024.
 
