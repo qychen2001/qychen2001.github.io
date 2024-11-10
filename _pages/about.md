@@ -164,7 +164,7 @@ async function fetchLastCommitTime() {
         }
         const data = await response.json();
         const lastCommitDate = new Date(data[0].commit.committer.date);
-        document.getElementById('lastCommitTime').textContent = `Last Updated in ${lastCommitDate.toLocaleString()}`;
+        document.getElementById('lastCommitTime').textContent = `Last Updated in ${lastCommitDate.toLocaleDateString()}`;
     } catch (error) {
         console.error('Error fetching commit time:', error);
         // document.getElementById('lastCommitTime').textContent = 'Failed to fetch commit time.';
