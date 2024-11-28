@@ -26,7 +26,7 @@ My current research interests primarily include: **<span style="color:#8ECFC9">M
 - Interpretability and Optimization of Large Language Models
 - Statistical Methods for Deep Learning and Tabular Data Prediction
 - Multi Modal Learning and its Applications in Medical
-  
+
 **Feel free to contact me if your research lies within these or related areas!**
 
 And I work really closely with [Qian Shao](https://abeier87.github.io/), [Hongsen Huang](https://github.com/SirlyDreamer), [Jiahe Chen](https://jiahechen2002.github.io/) and [Zepeng Li](https://lzzppp.github.io/).
@@ -43,11 +43,17 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 - _2024.09_, One paper on Semi-Supervised Learning is accepted by **NIPS 2024**. Congratulations to Qian Shao!
 
+- _2024.09_, I'm embarking on my PhD journey at Zhejiang University.
+
 - _2024.05_, One paper on Tabular Data Prediction is accepted by **KDD 2024**.
+
+<details>
+    <summary>More</summary>
 
 - _2024.03_, One paper on Large Language Model Distillation is accepted by **NAACL 2024**.
 
 - _2023.11_, I am honored to have been awarded the [Principal's Scholarship](https://mp.weixin.qq.com/s/B5e4NmFgpNsbQKAxiPb_lQ).
+</details>
 
 # 📝 Publications
 
@@ -111,10 +117,6 @@ This is a web-based tool that utilizes Large Language Models (LLMs) to help job 
 As the team lead, I spearheaded both the **architectural design** and the development of backend algorithms.
 
 **NOTE: Due to privacy considerations, this project will be fully open-sourced in the second half of 2024.**
-
-## 3. [PyTorch Frame ![](https://img.shields.io/github/stars/pyg-team/pytorch-frame)](https://github.com/pyg-team/pytorch-frame) (Contributor)
-
-Added additional model and dataset support for Pytorch Frame.
 
 # 🏅 Honors and Awards
 
