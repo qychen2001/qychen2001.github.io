@@ -47,13 +47,6 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 - _2024.05_, One paper on Tabular Data Prediction is accepted by **KDD 2024**.
 
-<details>
-    <summary>More</summary>
-
-- _2024.03_, One paper on Large Language Model Distillation is accepted by **NAACL 2024**.
-
-- _2023.11_, I am honored to have been awarded the [Principal's Scholarship](https://mp.weixin.qq.com/s/B5e4NmFgpNsbQKAxiPb_lQ).
-</details>
 
 # 📝 Publications
 
