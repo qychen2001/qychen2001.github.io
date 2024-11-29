@@ -110,7 +110,7 @@ As the team lead, I spearheaded both the **architectural design** and the develo
 
 **NOTE: Due to privacy considerations, this project will be fully open-sourced in the second half of 2024.**
 
-## 3. [LLM Application Platform @ Wedoctor Inc.]() (Frontend Developer)
+## 3. [LLMs Application Platform @ Wedoctor Inc.]() (Frontend Developer)
 
 This is a LLMs application and development platform, designed to help downstream engineers better compare and use LLMs. It includes model square, knowledge square, comparison center, document center, etc.
 
