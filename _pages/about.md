@@ -47,7 +47,6 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 - _2024.05_, One paper on Tabular Data Prediction is accepted by **KDD 2024**.
 
-
 # 📝 Publications
 
 <span style="color:blue">(\*: Equal contribution; $\dagger$: Corresponding author(s))</span>
@@ -110,6 +109,12 @@ This is a web-based tool that utilizes Large Language Models (LLMs) to help job 
 As the team lead, I spearheaded both the **architectural design** and the development of backend algorithms.
 
 **NOTE: Due to privacy considerations, this project will be fully open-sourced in the second half of 2024.**
+
+## 3. [LLM Application Platform @ Wedoctor Inc.]() (Frontend Developer)
+
+This is a LLMs application and development platform, designed to help downstream engineers better compare and use LLMs. It includes model square, knowledge square, comparison center, document center, etc.
+
+In this project, I completed the development of all front-end pages and interactions with [Jiahe Chen](https://jiahechen2002.github.io/). This project has already been **launched** and is in operation currently.
 
 # 🏅 Honors and Awards
 
