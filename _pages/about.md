@@ -55,7 +55,7 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 <!-- * [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation]() **<span style="color:#FA7F6F">MM</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **ACM TOMM**; 2024. [CCF B; TH-CPL B] -->
 
-- [Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection](https://arxiv.org/abs/2409.11653) [**<span style="color:#8ECFC9">ML</span>**]; Qian Shao, Jiangrui Kang, **Qiyuan Chen\***, Zepeng Li, Hongxia Xu, Yiwen Cao, Jiajuan Liang, Jian Wu; **NIPS**; 2024. [CCF A; TH-CPL A]
+* [Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection](https://arxiv.org/abs/2409.11653) [**<span style="color:#8ECFC9">ML</span>**]; Qian Shao, Jiangrui Kang, **Qiyuan Chen\***, Zepeng Li, Hongxia Xu, Yiwen Cao, Jiajuan Liang, Jian Wu; **NIPS**; 2024. [CCF A; TH-CPL A]
 
 * [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/abs/2408.00555) [**<span style="color:#FA7F6F">MM</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **arXiv**; 2024.
 
@@ -100,21 +100,21 @@ This project contains multiple sub-projects. For more sub-projects, please view 
 
 - [LuotuoQA: Better Conversational Question Answering Model with Answer Completion](https://github.com/LC1332/Luotuo-QA)
 
-## 2. [AInterview](https://github.com/qiyuan-chen/ChatInterview) (Team Lead, Main Contributor)
+## 2. [LLMs Application Platform @ Wedoctor Inc.]() (Frontend Developer)
 
-**You can check out the [DEMO](http://14.103.48.72/) here.**
+This is a LLMs application and development platform, designed to help downstream engineers better compare and use LLMs. It includes model square, knowledge square, comparison center, document center, etc.
+
+In this project, I completed the development of all front-end pages and interactions with [Jiahe Chen](https://jiahechen2002.github.io/). This project has already been **launched** and is in operation currently.
+
+## 3. [MMOwl](https://www.mmowl.top/) (Founder, Full Stack Developer)
+
+
+## 4. [AInterview](https://github.com/qiyuan-chen/ChatInterview) (Team Lead, Main Contributor)
 
 This is a web-based tool that utilizes Large Language Models (LLMs) to help job seekers **practice for interviews** using state-of-the-art technologies such as **RAG and Agent**.
 
 As the team lead, I spearheaded both the **architectural design** and the development of backend algorithms.
 
-**NOTE: Due to privacy considerations, this project will be fully open-sourced in the second half of 2024.**
-
-## 3. [LLMs Application Platform @ Wedoctor Inc.]() (Frontend Developer)
-
-This is a LLMs application and development platform, designed to help downstream engineers better compare and use LLMs. It includes model square, knowledge square, comparison center, document center, etc.
-
-In this project, I completed the development of all front-end pages and interactions with [Jiahe Chen](https://jiahechen2002.github.io/). This project has already been **launched** and is in operation currently.
 
 # 🏅 Honors and Awards
 
