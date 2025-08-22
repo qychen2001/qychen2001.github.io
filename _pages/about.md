@@ -16,16 +16,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Qiyuan Chen (陈启源) and I am currently a first-year Ph.D. student at the College of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/). Before that, I got my B.Sc. degree from the School of Mathematics and Statistics, Central China Normal University, under the guidance of [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm).
+My name is Qiyuan Chen (陈启源) and I am currently a second-year Ph.D. student at the College of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/). Before that, I got my B.Sc. degree from the School of Mathematics and Statistics, Central China Normal University, under the guidance of [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm).
 
 Since June 2023, I've been working as a full stack and AI research intern at WeDoctor AI Lab, under the mentorship of [Shengyang Kong](https://github.com/xxweimei). I am also a member of the Zhejiang Key Laboratory of Medical Imaging Artificial Intelligence.
 
-My current research interests primarily include: **<span style="color:#8ECFC9">Machine Learning (ML)</span>**, **<span style="color:#82B0D2">Natural Language Processing (NLP)</span>** and **<span style="color:#FA7F6F">Multi Modal Learning (MM)</span>**. Specifically,
+My current research interests primarily include: **<span style="color:#FA7F6F">Machine Learning (ML)</span>** and **<span style="color:#82B0D2">Natural Language Processing (NLP)</span>**. Specifically,
 
-- Natural Language Processing in Low Resource Scenarios
-- Interpretability and Optimization of Large Language Models
-- Statistical Methods for Deep Learning and Tabular Data Prediction
-- Multi Modal Learning and its Applications in Medical
+- Semi-Supervised Learning and Long-Tailed Learning
+- Tabular Data Prediction and Synthesis
+- Preference Optimization in LLMs/VLMs
+
+
 
 **Feel free to contact me if your research lies within these or related areas!**
 
@@ -41,6 +42,10 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 # 🔥 News
 
+- _2025.08_, One paper on Synthetic Preference Data is accepted by **EMNLP 2025 Main**. See you in Soochow!
+
+- _2025.05_, One paper on Object Hallucination is accepted by **TOMM**. Thanks for all collaborators!
+
 - _2024.09_, One paper on Semi-Supervised Learning is accepted by **NIPS 2024**. Congratulations to Qian Shao!
 
 - _2024.09_, I'm embarking on my PhD journey at Zhejiang University.
@@ -51,21 +56,23 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 <span style="color:blue">(\*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
+## 2025
+
+- [Icon $^2$: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation]() [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Hongsen Huang, Qian Shao, Jiahe Chen, Jintai Chen, Hongxia Xu, Renjie Hua, Ren Chuan, Jian Wu; **EMNLP**; 2025. [CCF B; TH-CPL A]
+
+- [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation]() [**<span style="color:#82B0D2">NLP</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **ACM TOMM**; 2024. [CCF B; TH-CPL B]
+
 ## 2024
 
-<!-- * [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation]() **<span style="color:#FA7F6F">MM</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **ACM TOMM**; 2024. [CCF B; TH-CPL B] -->
+- [Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection](https://arxiv.org/abs/2409.11653) [**<span style="color:#FA7F6F">ML</span>**]; Qian Shao, Jiangrui Kang, **Qiyuan Chen\***, Zepeng Li, Hongxia Xu, Yiwen Cao, Jiajuan Liang, Jian Wu; **NIPS**; 2024. [CCF A; TH-CPL A]
 
-* [Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection](https://arxiv.org/abs/2409.11653) [**<span style="color:#8ECFC9">ML</span>**]; Qian Shao, Jiangrui Kang, **Qiyuan Chen\***, Zepeng Li, Hongxia Xu, Yiwen Cao, Jiajuan Liang, Jian Wu; **NIPS**; 2024. [CCF A; TH-CPL A]
+- [Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data](https://arxiv.org/abs/2406.00281) [**<span style="color:#FA7F6F">ML</span>**]; Jintai Chen, Zhen Lin, **Qiyuan Chen**, Jimeng Sun; **arXiv**; 2024.
 
-* [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/abs/2408.00555) [**<span style="color:#FA7F6F">MM</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **arXiv**; 2024.
+- [Take Your Steps: Hierarchically Efficient Pulmonary Disease Screening via CT Compression](https://openreview.net/forum?id=JLyiMGQoqZ) [**<span style="color:#FA7F6F">ML</span>**]; Qian Shao, Kai Zhang, Bang Du, Zepeng Li, Yixuan Wu, **Qiyuan Chen**, Jian Wu, Jintai Chen; **KDD-AIDSH**; 2024. [KDD Workshop]
 
-* [Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data](https://arxiv.org/abs/2406.00281) [**<span style="color:#8ECFC9">ML</span>**]; Jintai Chen, Zhen Lin, **Qiyuan Chen**, Jimeng Sun; **arXiv**; 2024.
+- [Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/abs/2301.02819v4) [**<span style="color:#FA7F6F">ML</span>**]; Jintai Chen, Jiahuan Yan, **Qiyuan Chen**, Danny Chen, Jian Wu, Jimeng Sun; **KDD**; 2024. [CCF A; TH-CPL A]
 
-* [Take Your Steps: Hierarchically Efficient Pulmonary Disease Screening via CT Compression](https://openreview.net/forum?id=JLyiMGQoqZ) [**<span style="color:#8ECFC9">ML</span>**]; Qian Shao, Kai Zhang, Bang Du, Zepeng Li, Yixuan Wu, **Qiyuan Chen**, Jian Wu, Jintai Chen; **KDD-AIDSH**; 2024. [KDD Workshop]
-
-* [Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/abs/2301.02819v4) [**<span style="color:#8ECFC9">ML</span>**]; Jintai Chen, Jiahuan Yan, **Qiyuan Chen**, Danny Chen, Jian Wu, Jimeng Sun; **KDD**; 2024. [CCF A; TH-CPL A]
-
-* [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://arxiv.org/abs/2311.09214) [**<span style="color:#82B0D2">NLP</span>**]; Weize Liu, Guocong Li, Kai Zhang, Bang Du, **Qiyuan Chen**, Xuming Hu, Hongxia Xu, Jintai Chen, Jian Wu; **NAACL**; 2024. [CCF B; TH-CPL B]
+- [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://arxiv.org/abs/2311.09214) [**<span style="color:#82B0D2">NLP</span>**]; Weize Liu, Guocong Li, Kai Zhang, Bang Du, **Qiyuan Chen**, Xuming Hu, Hongxia Xu, Jintai Chen, Jian Wu; **NAACL**; 2024. [CCF B; TH-CPL B]
 
 <!-- TEMPLATE:
 
@@ -108,13 +115,11 @@ In this project, I completed the development of all front-end pages and interact
 
 ## 3. [MMOwl](https://www.mmowl.top/) (Founder, Full Stack Developer)
 
-
 ## 4. [AInterview](https://github.com/qiyuan-chen/ChatInterview) (Team Lead, Main Contributor)
 
 This is a web-based tool that utilizes Large Language Models (LLMs) to help job seekers **practice for interviews** using state-of-the-art technologies such as **RAG and Agent**.
 
 As the team lead, I spearheaded both the **architectural design** and the development of backend algorithms.
-
 
 # 🏅 Honors and Awards
 
@@ -142,8 +147,8 @@ As the team lead, I spearheaded both the **architectural design** and the develo
 
 # 🔎 Reviews
 
-- Review for Conferences: ACL, EMNLP
-- Review for Journals:
+- Review for Conferences: ACL, EMNLP, NIPS, AAAI
+- Review for Journals: JBHI
 
 <div align="center">
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
