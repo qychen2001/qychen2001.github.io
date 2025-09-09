@@ -58,9 +58,12 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 ## 2025
 
-- [Icon $^2$: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation]() [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Hongsen Huang, Qian Shao, Jiahe Chen, Jintai Chen, Hongxia Xu, Renjie Hua, Ren Chuan, Jian Wu; **EMNLP**; 2025. [CCF B; TH-CPL A]
+- [Icon $^2$: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation](https://arxiv.org/abs/2509.05605) [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Hongsen Huang, Qian Shao, Jiahe Chen, Jintai Chen, Hongxia Xu, Renjie Hua, Ren Chuan, Jian Wu; **EMNLP**; 2025. [CCF B; TH-CPL A]
 
-- [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation]() [**<span style="color:#82B0D2">NLP</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **ACM TOMM**; 2024. [CCF B; TH-CPL B]
+- [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://dl.acm.org/doi/10.1145/3742434) [**<span style="color:#82B0D2">NLP</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **ACM TOMM**; 2025. [CCF B; TH-CPL B]
+
+- [Beyond Keywords: Driving Generative Search Engine Optimization with Content-Centric Agents](http://arxiv.org/abs/2509.05607) [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Jiahe Chen, Hongsen Huang, Qian Shao, Jintai Chen, Renjie
+Hua, Hongxia Xu, Ruijia Wu, Ren Chuan, Jian Wu; **arXiv**; 2025.
 
 ## 2024
 
