@@ -62,8 +62,14 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 - [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://dl.acm.org/doi/10.1145/3742434) [**<span style="color:#82B0D2">NLP</span>**]; Xiaoye Qu, **Qiyuan Chen\***, Wei Wei, Jiashuo Sun, Daizong Liu, Yu Cheng; **ACM TOMM**; 2025. [CCF B; TH-CPL B]
 
-- [Beyond Keywords: Driving Generative Search Engine Optimization with Content-Centric Agents](http://arxiv.org/abs/2509.05607) [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Jiahe Chen, Hongsen Huang, Qian Shao, Jintai Chen, Renjie
+- [AI Approaches for Predicting Progression to Acute Coronary Syndrome among Stable Coronary Heart Disease Patients](https://www.nature.com/articles/s44325-025-00094-2) [**<span style="color:#FA7F6F">ML</span>**]; Haozhong Ma, Hexiang Bai, Jiahuan Yan, **Qiyuan Chen**, Zihan Ma, Shuo Tong, Yuxuan Zhan, Ruijia Wu, Hongxia Xu, Jian Wu; **npj Cardiovascular Health**; 2025.
+
+- [CC-GSEO-Bench: A Content-Centric Benchmark for Measuring Source Influence in Generative Search Engines](http://arxiv.org/abs/2509.05607) [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Jiahe Chen, Hongsen Huang, Qian Shao, Jintai Chen, Renjie
 Hua, Hongxia Xu, Ruijia Wu, Ren Chuan, Jian Wu; **arXiv**; 2025.
+
+- [Generation of Drug-Induced Cardiac Reactions towards Virtual Clinical Trials](https://arxiv.org/pdf/2502.07297); [**<span style="color:#FA7F6F">ML</span>**]; Qian Shao, Bang Du, Zepeng Li, **Qiyuan Chen**, Hongxia Xu, Jimeng Sun, Jian Wu, Jintai Chen; **arXiv**; 2025.
+
+- [Curing Semantic Drift: A Dynamic Approach to Grounding Generation in Large Vision-Language Models](https://arxiv.org/abs/2506.21509) [**<span style="color:#82B0D2">NLP</span>**]; Jiahe Chen, Jiaying He, **Qiyuan Chen**, Qian Shao, Jiahe Ying, Hongxia Xu, Jintai Chen, Jianwei Zheng, Jian Wu; **arXiv**; 2025.
 
 ## 2024
 
