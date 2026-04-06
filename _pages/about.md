@@ -48,11 +48,6 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 - _2025.05_, One paper on Object Hallucination is accepted by **TOMM**. Thanks for all collaborators!
 
-- _2024.09_, One paper on Semi-Supervised Learning is accepted by **NIPS 2024**. Congratulations to Qian Shao!
-
-- _2024.09_, I'm embarking on my PhD journey at Zhejiang University.
-
-- _2024.05_, One paper on Tabular Data Prediction is accepted by **KDD 2024**.
 
 # 📝 Publications
 
