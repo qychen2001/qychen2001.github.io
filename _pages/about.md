@@ -16,9 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Qiyuan Chen (陈启源) and I am currently a second-year Ph.D. student at the College of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/). Before that, I got my B.Sc. degree from the School of Mathematics and Statistics, Central China Normal University, under the guidance of [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm).
-
-Since June 2023, I've been working as a full stack and AI research intern at WeDoctor AI Lab, under the mentorship of [Shengyang Kong](https://github.com/xxweimei). I am also a member of the Zhejiang Key Laboratory of Medical Imaging Artificial Intelligence.
+My name is Qiyuan Chen (陈启源) and I am currently a second-year Ph.D. student at the College of Computer Science and Technology, Zhejiang University, supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274). Before that, I got my B.Sc. degree from the School of Mathematics and Statistics, Central China Normal University, under the guidance of [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm).
 
 My current research interests primarily include: **<span style="color:#FA7F6F">Machine Learning (ML)</span>** and **<span style="color:#82B0D2">Natural Language Processing (NLP)</span>**. Specifically,
 
@@ -42,6 +40,10 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 # 🔥 News
 
+- _2026.04_, One paper on Vision-Language Reward Modeling is accepted by **ACL 2026 Main**. See you in San Diego!
+
+- _2026.02_, One paper on Long-Tailed Semi-Supervised Learning is accepted by **ICLR 2026**. Congratulations to Qian Shao!
+
 - _2025.08_, One paper on Synthetic Preference Data is accepted by **EMNLP 2025 Main**. See you in Soochow!
 
 - _2025.05_, One paper on Object Hallucination is accepted by **TOMM**. Thanks for all collaborators!
@@ -56,6 +58,14 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 <span style="color:blue">(\*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
+## 2026
+
+- [CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning](https://openreview.net/pdf?id=pI9n8wAR80) [**<span style="color:#FA7F6F">ML</span>**]; Qian Shao, **Qiyuan Chen\***, Jiahe Chen, Zepeng Li, Qianqian Tang, Hongxia Xu, Jian Wu; **ICLR**; 2026. [CCF A; TH-CPL A]
+
+- [DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning]() [**<span style="color:#FA7F6F">ML</span>**]; Qian Shao, Jiahe Chen, **Qiyuan Chen\***, Qianqian Tang, Jintai Chen, Hongxia Xu, Jiangrui Kang, Jian Wu; **ICME**; 2026. [CCF B]
+
+- [Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling]() [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Hongsen Huang, Jiahe Chen, Qian Shao, Jintai Chen, Hongxia Xu, Renjie Hua, Ren Chuan, Jian Wu; **ACL**; 2026.
+
 ## 2025
 
 - [Icon $^2$: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation](https://arxiv.org/abs/2509.05605) [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Hongsen Huang, Qian Shao, Jiahe Chen, Jintai Chen, Hongxia Xu, Renjie Hua, Ren Chuan, Jian Wu; **EMNLP**; 2025. [CCF B; TH-CPL A]
@@ -67,7 +77,7 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 - [CC-GSEO-Bench: A Content-Centric Benchmark for Measuring Source Influence in Generative Search Engines](http://arxiv.org/abs/2509.05607) [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Jiahe Chen, Hongsen Huang, Qian Shao, Jintai Chen, Renjie
 Hua, Hongxia Xu, Ruijia Wu, Ren Chuan, Jian Wu; **arXiv**; 2025.
 
-- [Generation of Drug-Induced Cardiac Reactions towards Virtual Clinical Trials](https://arxiv.org/pdf/2502.07297); [**<span style="color:#FA7F6F">ML</span>**]; Qian Shao, Bang Du, Zepeng Li, **Qiyuan Chen**, Hongxia Xu, Jimeng Sun, Jian Wu, Jintai Chen; **arXiv**; 2025.
+- [MM-DADM: Multimodal Drug-Aware Diffusion Model for Virtual Clinical Trials](https://arxiv.org/pdf/2502.07297); [**<span style="color:#FA7F6F">ML</span>**]; Qian Shao, Bang Du, Zepeng Li, **Qiyuan Chen**, Jiahe Chen, Hongxia Xu, Jimeng Sun, Jian Wu, Jintai Chen; **arXiv**; 2025.
 
 - [Curing Semantic Drift: A Dynamic Approach to Grounding Generation in Large Vision-Language Models](https://arxiv.org/abs/2506.21509) [**<span style="color:#82B0D2">NLP</span>**]; Jiahe Chen, Jiaying He, **Qiyuan Chen**, Qian Shao, Jiahe Ying, Hongxia Xu, Jintai Chen, Jianwei Zheng, Jian Wu; **arXiv**; 2025.
 
@@ -116,19 +126,14 @@ This project contains multiple sub-projects. For more sub-projects, please view 
 
 - [LuotuoQA: Better Conversational Question Answering Model with Answer Completion](https://github.com/LC1332/Luotuo-QA)
 
-## 2. [LLMs Application Platform @ Wedoctor Inc.]() (Frontend Developer)
+## 2. [Poco: Your Pocket Coworker ![](https://img.shields.io/github/stars/poco-ai/poco-claw)](https://github.com/poco-ai/poco-claw)
 
-This is a LLMs application and development platform, designed to help downstream engineers better compare and use LLMs. It includes model square, knowledge square, comparison center, document center, etc.
+A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, and a sandboxed runtime for improved safety. Under the hood, it is powered by a Claude Code–based agent.
 
-In this project, I completed the development of all front-end pages and interactions with [Jiahe Chen](https://jiahechen2002.github.io/). This project has already been **launched** and is in operation currently.
-
-## 3. [MMOwl](https://www.mmowl.top/) (Founder, Full Stack Developer)
-
-## 4. [AInterview](https://github.com/qiyuan-chen/ChatInterview) (Team Lead, Main Contributor)
-
-This is a web-based tool that utilizes Large Language Models (LLMs) to help job seekers **practice for interviews** using state-of-the-art technologies such as **RAG and Agent**.
-
-As the team lead, I spearheaded both the **architectural design** and the development of backend algorithms.
+**Competition Awards:**
+- AI Hackathon Tour, Hangzhou Station — 3rd Place
+- AI Hackathon Tour, Zhejiang University Station — 1st Place
+- AI Hackathon Tour, National Finals — 3rd Place
 
 # 🏅 Honors and Awards
 
@@ -142,17 +147,6 @@ As the team lead, I spearheaded both the **architectural design** and the develo
 - _2024.09 - 2029.06 (expected)_, Ph.D. in Artificial Intelligence, [College of Computer Science and Technology](http://www.cs.zju.edu.cn/csen/), Zhejiang University. Supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/).
 
 - _2020.09 - 2024.06_, B.Sc. in Statistics, [School of Mathematics and Statistics](http://maths.ccnu.edu.cn/), Central China Normal University. Advised by [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm). Thanks to [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm), I was able to spend four unforgettable and wonderful years there.
-
-<!--
-# 💬 Invited Talks
-
-- *2023.11*, NLP Discuss, CCNU. [[Slides]](https://github.com/qiyuan-chen/qiyuan-chen.github.io/blob/main/talks/nlp-discuss-20231124.pdf)
-
--->
-
-<!-- # 🎒 Visiting and Internship
-
-- _2024.06 - 2024.09_, Visiting Scholar, Medical Big Data Center, Guangdong Academy of Medical Sciences, had the honor of working with [Prof. Huiying Liang](http://cmu.teacher.360eol.com/teacherBasic/preview?teacherId=16017). -->
 
 # 🔎 Reviews
 
