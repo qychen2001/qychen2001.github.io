@@ -55,7 +55,7 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 ## 2026
 
-- [Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling]() [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Hongsen Huang, Jiahe Chen, Qian Shao, Jintai Chen, Hongxia Xu, Renjie Hua, Ren Chuan, Jian Wu; **ACL**; 2026.
+- [Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling](https://arxiv.org/abs/2604.05445) [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Hongsen Huang, Jiahe Chen, Qian Shao, Jintai Chen, Hongxia Xu, Renjie Hua, Ren Chuan, Jian Wu; **ACL**; 2026.
 
 - [CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning](https://openreview.net/pdf?id=pI9n8wAR80) [**<span style="color:#FA7F6F">ML</span>**]; Qian Shao, **Qiyuan Chen\***, Jiahe Chen, Zepeng Li, Qianqian Tang, Hongxia Xu, Jian Wu; **ICLR**; 2026. [CCF A; TH-CPL A]
 
