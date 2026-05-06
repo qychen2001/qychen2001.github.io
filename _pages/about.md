@@ -137,6 +137,14 @@ A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer 
 - _2021.11_, China Undergraduate Mathematical Contest in Model (CUMCM), First Prize, under the guidance of [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm)
 - _2019.11_, The 19th Awarding Program For Future Scientists (The largest pre-college scientific research event in China), Second Prize
 
+# 📝 Selected Blogs
+
+## RL
+
+- [Detailed Explanation of PPO and GRPO](https://qychen2001.github.io/blog/p/%E8%AF%A6%E8%A7%A3ppo%E4%B8%8Egrpo/)
+
+## Agent
+
 # 📖 Educations
 
 - _2024.09 - 2029.06 (expected)_, Ph.D. in Artificial Intelligence, [College of Computer Science and Technology](http://www.cs.zju.edu.cn/csen/), Zhejiang University. Supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/).
