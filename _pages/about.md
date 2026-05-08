@@ -143,6 +143,8 @@ A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer 
 
 - [Detailed Explanation of PPO and GRPO](https://qychen2001.github.io/blog/p/%E8%AF%A6%E8%A7%A3ppo%E4%B8%8Egrpo/)
 
+- [Comprehensive Overview: From PPO/DPO to GRPO and Its Variants](https://qychen2001.github.io/blog/p/%E8%AF%A6%E7%BB%86%E6%A2%B3%E7%90%86-ppo/dpo-%E5%88%B0-grpo-%E5%8F%8A%E5%85%B6%E5%8F%98%E4%BD%93/)
+
 ## Agent
 
 # 📖 Educations
