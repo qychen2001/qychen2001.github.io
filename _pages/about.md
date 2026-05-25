@@ -42,12 +42,11 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 - _2026.04_, One paper on Vision-Language Reward Modeling is accepted by **ACL 2026 Main**. See you in San Diego!
 
+- _2026.03_, Poco has reached over 1k stars on GitHub! Welcome to use it and provide suggestions.
+
 - _2026.02_, One paper on Long-Tailed Semi-Supervised Learning is accepted by **ICLR 2026**. Congratulations to Qian Shao!
 
 - _2025.08_, One paper on Synthetic Preference Data is accepted by **EMNLP 2025 Main**. See you in Soochow!
-
-- _2025.05_, One paper on Object Hallucination is accepted by **TOMM**. Thanks for all collaborators!
-
 
 # 📝 Publications
 
@@ -111,7 +110,7 @@ This project contains multiple sub-projects. For more sub-projects, please view 
 </div>
 </div> -->
 
-## 1. [Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA ![](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM)](https://github.com/LC1332/Luotuo-Chinese-LLM) (Founder)
+## 1. [Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA ![](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM)](https://github.com/LC1332/Luotuo-Chinese-LLM)
 
 **<span style="color:red">This project has already received over 3.6k stars.</span>**
 
@@ -138,15 +137,7 @@ A more beautiful and easier-to-use alternative to OpenClaw, featuring a nicer We
 
 An open-source AI usage tracking platform that automatically collects token consumption data from local AI coding CLIs, with a clean Web dashboard for analytics.
 
-## 4. [ZJU-Beamer-Template ![](https://img.shields.io/github/stars/qychen2001/ZJU-Beamer-Template)](https://github.com/qychen2001/ZJU-Beamer-Template)
-
-A LaTeX Beamer template designed for creating presentation slides with Zhejiang University's official visual identity and branding.
-
-## 5. [Agentify ![](https://img.shields.io/github/stars/qychen2001/Agentify)](https://github.com/qychen2001/Agentify)
-
-A vibe workflow platform that enables agents to generate reusable agentic workflows from SOPs or natural language, with auto-generated UIs for seamless interaction.
-
-## 6. WeDoctor Medical LLM Post-Training
+## 4. WeDoctor Medical LLM Post-Training
 
 **<span style="color:red">Achieved 1st place on [MedBench leaderboard](https://medbench.opencompass.org.cn/leaderboard)</span>**
 
@@ -155,14 +146,32 @@ A medical domain LLM project focusing on post-training techniques:
 - **RL**: Developed reward model training, DPO, CoT data generation, and RLVR approaches
 - **VLM**: Applied segmentation, detection, classification models and external knowledge bases for hallucination correction to generate SFT and DPO preference data
 
+## 5. [ZJU-Beamer-Template ![](https://img.shields.io/github/stars/qychen2001/ZJU-Beamer-Template)](https://github.com/qychen2001/ZJU-Beamer-Template)
+
+A LaTeX Beamer template designed for creating presentation slides with Zhejiang University's official visual identity and branding.
+
+## 6. [Agentify ![](https://img.shields.io/github/stars/qychen2001/Agentify)](https://github.com/qychen2001/Agentify)
+
+A vibe workflow platform that enables agents to generate reusable agentic workflows from SOPs or natural language, with auto-generated UIs for seamless interaction.
+
 
 
 # 🏅 Honors and Awards
 
+### 🎓 Academic
+
 - _2024.05_, Outstanding Graduates (Undergraduate)
-- _2023.11_, Principal’s Scholarship (Undergraduate) (ONLY 10 people in the whole school each year)
+- _2023.11_, Principal's Scholarship (Undergraduate) (ONLY 10 people in the whole school each year)
 - _2021.11_, China Undergraduate Mathematical Contest in Model (CUMCM), First Prize, under the guidance of [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm)
 - _2019.11_, The 19th Awarding Program For Future Scientists (The largest pre-college scientific research event in China), Second Prize
+
+### Hackathon
+
+- _2026.05_, Douyin AI InnovAI Hackathon Tour, Hangzhou Station — 2nd Place
+- _2026.05_, Douyin AI InnovAI Hackathon Tour, Hangzhou Station — Most Popular Award
+- _2026.03_, AI Hackathon Tour, National Finals — 3rd Place
+- _2026.03_, AI Hackathon Tour, Zhejiang University Station — 1st Place
+- _2026.01_, AI Hackathon Tour, Hangzhou Station — 3rd Place
 
 # 📝 Selected Blogs
 
