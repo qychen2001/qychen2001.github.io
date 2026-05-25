@@ -28,9 +28,9 @@ My current research interests primarily include: **<span style="color:#FA7F6F">M
 
 **Feel free to contact me if your research lies within these or related areas!**
 
-And I work really closely with [Qian Shao](https://abeier87.github.io/), [Hongsen Huang](https://github.com/SirlyDreamer), [Jiahe Chen](https://jiahechen2002.github.io/) and [Zepeng Li](https://lzzppp.github.io/).
+And I work really closely with [Jiahe Chen](https://jiahechen2002.github.io/) and [Huawei Fan](https://philfan.cn/).
 
-In my spare time, I really enjoy developing interesting websites and tools using FastAPI and Vue.js, and I'm also interested in DevOPS (CI/CD, container, etc.). If you're interested, check out my projects on my [GitHub](https://github.com/qychen2001).
+In my spare time, I love doing full-stack development, usually with FastAPI and Next.js. I also frequently participate in hackathons to build fun and interesting projects. Feel free to check out my work on [GitHub](https://github.com/qychen2001)!
 
 I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, running and chess in my spare time.
 
@@ -113,7 +113,7 @@ This project contains multiple sub-projects. For more sub-projects, please view 
 
 ## 1. [Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA ![](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM)](https://github.com/LC1332/Luotuo-Chinese-LLM) (Founder)
 
-**<span style="color:red">This project has already received over 3.5k stars.</span>**
+**<span style="color:red">This project has already received over 3.6k stars.</span>**
 
 This project contains multiple sub-projects. For more sub-projects, please view the project [homepage](https://github.com/LC1332/Luotuo-Chinese-LLM).
 
@@ -123,12 +123,39 @@ This project contains multiple sub-projects. For more sub-projects, please view 
 
 ## 2. [Poco: Your Pocket Coworker ![](https://img.shields.io/github/stars/poco-ai/poco-claw)](https://github.com/poco-ai/poco-claw)
 
-A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, and a sandboxed runtime for improved safety. Under the hood, it is powered by a Claude Code–based agent.
+**<span style="color:red">This project has already received over 1.3k stars.</span>**
+
+A more beautiful and easier-to-use alternative to OpenClaw, featuring a nicer Web UI, built-in IM support, and a sandboxed runtime. Powered by a Claude Code–based agent.
 
 **Competition Awards:**
 - AI Hackathon Tour, Hangzhou Station — 3rd Place
 - AI Hackathon Tour, Zhejiang University Station — 1st Place
 - AI Hackathon Tour, National Finals — 3rd Place
+
+## 3. [Token Arena ![](https://img.shields.io/github/stars/poco-ai/TokenArena)](https://github.com/poco-ai/TokenArena)
+
+**<span style="color:red">1,000+ total users with 100+ daily active users</span>**
+
+An open-source AI usage tracking platform that automatically collects token consumption data from local AI coding CLIs, with a clean Web dashboard for analytics.
+
+## 4. [ZJU-Beamer-Template ![](https://img.shields.io/github/stars/qychen2001/ZJU-Beamer-Template)](https://github.com/qychen2001/ZJU-Beamer-Template)
+
+A LaTeX Beamer template designed for creating presentation slides with Zhejiang University's official visual identity and branding.
+
+## 5. [Agentify ![](https://img.shields.io/github/stars/qychen2001/Agentify)](https://github.com/qychen2001/Agentify)
+
+A vibe workflow platform that enables agents to generate reusable agentic workflows from SOPs or natural language, with auto-generated UIs for seamless interaction.
+
+## 6. WeDoctor Medical LLM Post-Training
+
+**<span style="color:red">Achieved 1st place on [MedBench leaderboard](https://medbench.opencompass.org.cn/leaderboard)</span>**
+
+A medical domain LLM project focusing on post-training techniques:
+- **SFT**: Implemented Self-Instruct and Magpie instruction generation pipelines to automatically construct instruction-tuning pairs from medical documents
+- **RL**: Developed reward model training, DPO, CoT data generation, and RLVR approaches
+- **VLM**: Applied segmentation, detection, classification models and external knowledge bases for hallucination correction to generate SFT and DPO preference data
+
+
 
 # 🏅 Honors and Awards
 
