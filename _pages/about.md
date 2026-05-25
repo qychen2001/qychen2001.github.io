@@ -158,8 +158,9 @@ A vibe workflow platform that enables agents to generate reusable agentic workfl
 
 # 🏅 Honors and Awards
 
-### 🎓 Academic
+### Academic
 
+- _2025.09_, Outstanding Graduate Student
 - _2024.05_, Outstanding Graduates (Undergraduate)
 - _2023.11_, Principal's Scholarship (Undergraduate) (ONLY 10 people in the whole school each year)
 - _2021.11_, China Undergraduate Mathematical Contest in Model (CUMCM), First Prize, under the guidance of [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm)
