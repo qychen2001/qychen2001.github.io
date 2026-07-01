@@ -40,9 +40,11 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 # 🔥 News
 
+- _2026.06_, One paper on Open-Set Semi-Supervised Learning is accepted by **ECCV 2026**. Congratulations to Jiahe!
+
 - _2026.04_, One paper on Vision-Language Reward Modeling is accepted by **ACL 2026 Main**. See you in San Diego!
 
-- _2026.03_, Poco has reached over 1k stars on GitHub! Welcome to use it and provide suggestions.
+- _2026.03_, Poco has reached over 1.3k stars on GitHub! Welcome to use it and provide suggestions.
 
 - _2026.02_, One paper on Long-Tailed Semi-Supervised Learning is accepted by **ICLR 2026**. Congratulations to Qian Shao!
 
@@ -54,11 +56,13 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 
 ## 2026
 
-- [Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling](https://arxiv.org/abs/2604.05445) [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Hongsen Huang, Jiahe Chen, Qian Shao, Jintai Chen, Hongxia Xu, Renjie Hua, Ren Chuan, Jian Wu; **ACL**; 2026.
+- [Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling](https://arxiv.org/abs/2604.05445) [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Hongsen Huang, Jiahe Chen, Qian Shao, Jintai Chen, Hongxia Xu, Renjie Hua, Ren Chuan, Jian Wu; **ACL**; 2026. [CCF A; TH-CPL A]
+
+- [Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning]() [**<span style="color:#FA7F6F">ML</span>**]; Jiahe Chen, Qian Shao, **Qiyuan Chen**, Jiaying He, Hongxia Xu, Jian Wu; **ECCV**; 2026. [CCF B; TH-CPL A]
 
 - [CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning](https://openreview.net/pdf?id=pI9n8wAR80) [**<span style="color:#FA7F6F">ML</span>**]; Qian Shao, **Qiyuan Chen\***, Jiahe Chen, Zepeng Li, Qianqian Tang, Hongxia Xu, Jian Wu; **ICLR**; 2026. [CCF A; TH-CPL A]
 
-- [DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning]() [**<span style="color:#FA7F6F">ML</span>**]; Qian Shao, Jiahe Chen, **Qiyuan Chen\***, Qianqian Tang, Jintai Chen, Hongxia Xu, Jiangrui Kang, Jian Wu; **ICME**; 2026. [CCF B]
+- [DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning]() [**<span style="color:#FA7F6F">ML</span>**]; Qian Shao, Jiahe Chen, **Qiyuan Chen\***, Qianqian Tang, Jintai Chen, Hongxia Xu, Jiangrui Kang, Jian Wu; **ICME**; 2026. [CCF B, TH-CPL B]
 
 ## 2025
 
