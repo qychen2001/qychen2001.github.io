@@ -28,7 +28,7 @@ My current research interests primarily include: **<span style="color:#FA7F6F">M
 
 **Feel free to contact me if your research lies within these or related areas!**
 
-And I work really closely with [Jiahe Chen](https://jiahechen2002.github.io/) and [Huawei Fan](https://philfan.cn/).
+And I work really closely with [Jiahe Chen](https://jiahechen2002.github.io/) and [Huawei Fan](https://philfan.cn/). We have built many [fun projects](https://github.com/poco-ai) together, and working with them has been the most wonderful time of my PhD. 🤗
 
 In my spare time, I love doing full-stack development, usually with FastAPI and Next.js. I also frequently participate in hackathons to build fun and interesting projects. Feel free to check out my work on [GitHub](https://github.com/qychen2001)!
 
@@ -39,6 +39,8 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 </font>
 
 # 🔥 News
+
+- _2026.08_, One paper on Cognitive Diagnosis is accepted by **CIKM 2026**. Congratulations to Yufan!
 
 - _2026.06_, One paper on Open-Set Semi-Supervised Learning is accepted by **ECCV 2026**. Congratulations to Jiahe!
 
@@ -55,6 +57,8 @@ I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, runni
 <span style="color:blue">(\*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
 ## 2026
+
+- [Emulating Expert Intuition: Retrieval-Augmented Cognitive Diagnosis for Student Cold-Start]() [**<span style="color:#FA7F6F">ML</span>**]; Yufan Lin, Yuqian Hu, **Qiyuan Chen$\dagger$**, Le Li, Jinrui Zhang, Wenjing Zhou, Bo Li; **CIKM**; 2026. [CCF B; TH-CPL B]
 
 - [Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling](https://arxiv.org/abs/2604.05445) [**<span style="color:#82B0D2">NLP</span>**]; **Qiyuan Chen**, Hongsen Huang, Jiahe Chen, Qian Shao, Jintai Chen, Hongxia Xu, Renjie Hua, Ren Chuan, Jian Wu; **ACL**; 2026. [CCF A; TH-CPL A]
 
@@ -135,13 +139,17 @@ A more beautiful and easier-to-use alternative to OpenClaw, featuring a nicer We
 - AI Hackathon Tour, Zhejiang University Station — 1st Place
 - AI Hackathon Tour, National Finals — 3rd Place
 
-## 3. [Token Arena ![](https://img.shields.io/github/stars/poco-ai/TokenArena)](https://github.com/poco-ai/TokenArena)
+## 3. [Agentero ![](https://img.shields.io/github/stars/poco-ai/Agentero)](https://github.com/poco-ai/Agentero)
+
+An agent-native reference manager for human-agent collaborative research reading. It connects to local agents via ACP (BYOA), supports Zotero import/export, parses figures/tables/equations, offers PDF deep reading with translation, and builds a local knowledge graph through Obsidian-style wikilinks.
+
+## 4. [Token Arena ![](https://img.shields.io/github/stars/poco-ai/TokenArena)](https://github.com/poco-ai/TokenArena)
 
 **<span style="color:red">1,000+ total users with 100+ daily active users</span>**
 
 An open-source AI usage tracking platform that automatically collects token consumption data from local AI coding CLIs, with a clean Web dashboard for analytics.
 
-## 4. WeDoctor Medical LLM Post-Training
+## 5. WeDoctor Medical LLM Post-Training
 
 **<span style="color:red">Achieved 1st place on [MedBench leaderboard](https://medbench.opencompass.org.cn/leaderboard)</span>**
 
@@ -150,15 +158,9 @@ A medical domain LLM project focusing on post-training techniques:
 - **RL**: Developed reward model training, DPO, CoT data generation, and RLVR approaches
 - **VLM**: Applied segmentation, detection, classification models and external knowledge bases for hallucination correction to generate SFT and DPO preference data
 
-## 5. [ZJU-Beamer-Template ![](https://img.shields.io/github/stars/qychen2001/ZJU-Beamer-Template)](https://github.com/qychen2001/ZJU-Beamer-Template)
+## 6. [ZJU-Beamer-Template ![](https://img.shields.io/github/stars/qychen2001/ZJU-Beamer-Template)](https://github.com/qychen2001/ZJU-Beamer-Template)
 
 A LaTeX Beamer template designed for creating presentation slides with Zhejiang University's official visual identity and branding.
-
-## 6. [Agentify ![](https://img.shields.io/github/stars/qychen2001/Agentify)](https://github.com/qychen2001/Agentify)
-
-A vibe workflow platform that enables agents to generate reusable agentic workflows from SOPs or natural language, with auto-generated UIs for seamless interaction.
-
-
 
 # 🏅 Honors and Awards
 
@@ -190,7 +192,7 @@ A vibe workflow platform that enables agents to generate reusable agentic workfl
 
 # 📖 Educations
 
-- _2024.09 - 2029.06 (expected)_, Ph.D. in Artificial Intelligence, [College of Computer Science and Technology](http://www.cs.zju.edu.cn/csen/), Zhejiang University. Supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/).
+- _2024.09 - 2029.06 (expected)_, Ph.D. in Artificial Intelligence, [College of Computer Science and Technology](http://www.cs.zju.edu.cn/csen/), Zhejiang University. Supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274).
 
 - _2020.09 - 2024.06_, B.Sc. in Statistics, [School of Mathematics and Statistics](http://maths.ccnu.edu.cn/), Central China Normal University. Advised by [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm). Thanks to [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm), I was able to spend four unforgettable and wonderful years there.
 
