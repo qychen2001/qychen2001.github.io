@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qiyuan Chen"
   avatar           : "images/cqy_2025_draw.jpg"
-  bio              : "Ph.D. Student at Zhejiang University"
+  bio              : "Ph.D. Student at Zhejiang University<br>Co-founder @ <a href='https://github.com/poco-ai'>poco-ai</a>"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
