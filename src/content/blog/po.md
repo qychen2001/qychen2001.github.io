@@ -2,10 +2,6 @@
 title: '详细梳理 PPO/DPO 到 GRPO 及其变体'
 description: '本文从统一的 RLHF 目标出发，梳理 PPO、DPO 与 GRPO 在 LLM 后训练中的技术路径、目标函数与工程取舍'
 pubDate: 2025-06-15 00:00:00+0000
-tags:
-    - 'LLM'
-    - '强化学习'
-    - '科研'
 giscus: false
 ---
 

@@ -2,10 +2,6 @@
 title: '详解PPO与GRPO'
 description: '《A vision researcher’s guide to some RL stuff: PPO & GRPO》中文翻译与重构'
 pubDate: 2025-03-28 00:00:00+0000
-tags:
-    - 'LLM'
-    - '强化学习'
-    - '科研'
 giscus: false
 ---
 
