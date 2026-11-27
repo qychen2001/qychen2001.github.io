@@ -1,12 +1,12 @@
 import type { Site, Ui, Features } from './types'
 
 export const SITE: Site = {
-  website: 'https://qychen2001.github.io/',
+  website: 'https://chenqiyuan.me/',
   base: '/',
-  title: 'Astro AntfuStyle Theme',
+  title: 'Qiyuan Chen',
   description:
     'A customizable, feature-rich Astro theme for blog and portfolio creation',
-  author: 'Stephanie Lin',
+  author: 'Qiyuan Chen',
   lang: 'en',
   ogLocale: 'en_US',
   imageDomains: ['cdn.bsky.app', 'images.unsplash.com'],
